@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  MemorySegmentApp.cpp
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(14): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(31): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(32): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(34): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(35): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(37): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int **' です
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(38): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(40): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(46): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int **' です
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(47): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(51): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int **' です
+c:\develop\visualstudio_workdpace\memorysegment\memorysegmentapp\memorysegmentapp\memorysegmentapp.cpp(52): warning C4477: 'printf' : 書式文字列 '%08x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+  MemorySegmentApp.vcxproj -> C:\develop\VisualStudio_workdpace\MemorySegment\MemorySegmentApp\Debug\MemorySegmentApp.exe
