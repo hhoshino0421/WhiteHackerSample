@@ -21,7 +21,7 @@ int main() {
     static int  static_var;
     int         *heap_var_ptr;
 
-    heap_var_ptr = (int *)malloc(sizeof(int));
+    heap_var_ptr = (int *)malloc(sizeof(int) * 5);
 
     printf("intのサイズ: %lu\n", sizeof(int));
 
@@ -37,6 +37,16 @@ int main() {
     printf("stack_varはアドレス 0x%08x にあります。 \n", &stack_var);
 
     function();
+
+    free(heap_var_ptr);
+
+    printf("free heap_var_ptrはアドレス 0x%08x にあります。 \n", &heap_var_ptr);
+    printf("free heap_var_ptrはアドレス 0x%08x を指しています。 \n\n", heap_var_ptr);
+
+    heap_var_ptr = NULL;
+
+    printf("NULL heap_var_ptrはアドレス 0x%08x にあります。 \n", &heap_var_ptr);
+    printf("NULL heap_var_ptrはアドレス 0x%08x を指しています。 \n\n", heap_var_ptr);
 
 
     return 0;
