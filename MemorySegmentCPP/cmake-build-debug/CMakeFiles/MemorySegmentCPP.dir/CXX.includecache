@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hhoshino/develop/clion_workspace/MemorySegmentCPP/main.cpp
+iostream
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+

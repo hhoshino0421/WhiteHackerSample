@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MemorySegmentCPP.dir/main.cpp.o  -o MemorySegmentCPP 
